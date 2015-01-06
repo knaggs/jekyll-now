@@ -6,6 +6,6 @@ Using multiple devices to access the internet is becoming the norm. Almost every
 
 Mobile web design needs to be thought through more than for the desktop. The interface is usually touch driven rather than mouse driven. The content shown needs to be the most relevant and due to mostly slower mobile internet speeds, content and images need to heavily optimised so loading times are fast.
 
-![_config.yml]({{ site.baseurl }}/images/devices.png)
+![_config.yml]({{ site.baseurl }}/images/deviceaccess.png)
 
 I use Google analytics on [my own website](http://www.flamelily.co.uk/) as shown above, and was surprised to see these numbers. Although Windows is still the primary device, Android and iOS have overtaken Linux and Mac OS which shows where things are heading. We as developers need to seriously consider ‘Mobile First’ when starting a new web project and also revisit old projects to see if we need to iterate.
