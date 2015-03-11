@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-old
 title: About this blog
 permalink: /about/
 ---

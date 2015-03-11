@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-old
 title: The Mobile Content Mandate 
 ---
 Using multiple devices to access the internet is becoming the norm. Almost every teenager in the first world has a mobile phone or tablet. The interesting thing is mobile access is also becoming [popular in the third world](http://www.pewglobal.org/2014/02/13/emerging-nations-embrace-internet-mobile-technology/) too, as cheap smartphones and tablets enable people to access the internet without having to shell out on a full blown PC. This convenient way to access the global internet is only going to grow, with young people being the driving force as they want to be able to keep in contact with friends via email and social networking, access news sites and even use apps for mobile payments.
