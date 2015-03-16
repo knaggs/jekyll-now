@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-old
 title: Jeffrey Zeldman's Ten Commandments of Web Design 
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-old
 title: An Anatomy of an Adaptive Web Experience 
 ---
 

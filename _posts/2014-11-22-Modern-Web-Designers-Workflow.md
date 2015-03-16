@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-old
 title: Chris Coyier's Modern Web Designer's Workflow   
 ---
 An excellent example of fluid design is shown at Chris Coyier own site [http://chriscoyier.net](http://chriscoyier.net/). I can see that he has embraced the concept of content first. His site is simple and un-cluttered with excellent typography.
