@@ -13,3 +13,19 @@ This is my musings about all things web. I started this blog while studying for 
 ### Contact me via email
 
 [info@derekknaggs.com](mailto:info@derekknaggs.com)
+
+<!-- Clock CSS -->
+<link href="css/clock.css" rel="stylesheet">
+
+<div class="box">
+  <div class="clock">
+    <span class="hours"></span>
+    <span class="minutes"></span>
+  </div>
+  <div class="date">
+    <div id="daymonth"></div>
+    <div id="year"></div>
+  </div>
+</div>
+<!-- jscript for clock -->
+<script src="js/clock.js"></script>
